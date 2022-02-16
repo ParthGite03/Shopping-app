@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/drawable/search_bg.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/ProductDetails_row_items.xml" value="0.1" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/activity_all_category.xml" value="0.25" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/activity_catagorynumber2.xml" value="0.2582322357019064" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/activity_categorynumber1.xml" value="0.33" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/activity_categorynumber3.xml" value="0.2" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/activity_product_details.xml" value="0.18" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/all_category_row_items.xml" value="0.25" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/category_row_items.xml" value="0.33" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/categorynumber1_row_items.xml" value="0.15" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/categorynumber2_row_items.xml" value="0.11640625" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/categorynumber3_row_items.xml" value="0.1" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/discounted_row_items.xml" value="0.25" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/productdetails_row_items.xml" value="0.127734375" />
+        <entry key="..\:/Users/pradn/AndroidStudioProjects/Shoppingapp/app/src/main/res/layout/recently_viewed_items.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
